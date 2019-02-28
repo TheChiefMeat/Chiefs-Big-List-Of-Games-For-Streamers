@@ -2,7 +2,7 @@
 
 Below is a list of games I've found to be good for streamers. 
 
-Please note that "Multi-Player" doesn't nessesarily mean Online Multi-Player.
+Please note that "Multi-Player" doesn't nessesarily mean Online Multi-Player, but does in the vast majority of cases.
 
 |Game|Single-Player|Multi-Player|
 | ------------- |:-------------:|:-----:|
