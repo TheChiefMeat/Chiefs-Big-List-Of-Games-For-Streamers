@@ -10,7 +10,7 @@ Please note that "Multi-Player" doesn't nessesarily mean Online Multi-Player, bu
 | [Battlerite](https://store.steampowered.com/app/504370/Battlerite/)|✅|✅
 | [Brawlhalla](https://store.steampowered.com/app/291550/Brawlhalla/)|✅|✅
 | [DEFCON](https://store.steampowered.com/app/1520/DEFCON/)|✅|✅
-| [Drawful 2](https://store.steampowered.com/app/1520/DEFCON/)|✅|✅
+| [Drawful 2](https://store.steampowered.com/app/442070/Drawful_2/)|✅|✅
 | [Duck Game](https://store.steampowered.com/app/312530/Duck_Game/)|✅|✅
 | [Dungeon of the Endless](https://store.steampowered.com/app/249050/Dungeon_of_the_Endless/)|✅|✅
 | [Forts](https://store.steampowered.com/app/410900/Forts/)|✅|✅
@@ -27,7 +27,7 @@ Please note that "Multi-Player" doesn't nessesarily mean Online Multi-Player, bu
 | [ROCKETSROCKETSROCKETS](https://store.steampowered.com/app/289760/ROCKETSROCKETSROCKETS/)|✅|✅
 | [Rust](https://store.steampowered.com/app/252490/Rust/)|❌|✅
 | [ShellShock Live](https://store.steampowered.com/app/326460/ShellShock_Live/)|✅|✅
-| [Smite](https://store.steampowered.com/app/1520/DEFCON/)|❌|✅
+| [Smite](https://store.steampowered.com/app/386360/SMITE/)|❌|✅
 | [Stick Fight: The Game](https://store.steampowered.com/app/674940/Stick_Fight_The_Game/)|❌|✅
 | [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/)|✅|✅
 | [Team Fortress 2](https://store.steampowered.com/app/440/Team_Fortress_2/)|❌|✅
