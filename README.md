@@ -4,6 +4,8 @@ Below is a list of games I've found to be good for streamers.
 
 Please note that "Multi-Player" doesn't nessesarily mean Online Multi-Player, but does in the vast majority of cases.
 
+If you wish for a game to be added to the below list, please open an issue with the name of the game as the title, with a link to the website / store page of the game in question.
+
 |Game|Single-Player|Multi-Player|
 | ------------- |:-------------:|:-----:|
 | [Awesomenauts](https://store.steampowered.com/app/204300/Awesomenauts__the_2D_moba/)|✅|✅
